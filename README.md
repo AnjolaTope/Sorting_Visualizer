@@ -26,9 +26,13 @@ PYGAME
 
 
 BubbleSort Implementation <br/>
+
+To run this code click this link : https://repl.it/@AnjolaTopeBabal/SortingVisualizer1
 <img src="https://i.imgur.com/q5Fu4ZP.gif" width="500" height="400" />  
 
 QuickSort implementation <br/>
+
+To run this code click this link : https://repl.it/@AnjolaTopeBabal/SortingVisulaizer2
 <img src="https://i.imgur.com/k0xYRqI.gif" width="500" height="400" />  
 
 
